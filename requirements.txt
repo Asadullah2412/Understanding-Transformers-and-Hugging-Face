@@ -1,0 +1,6 @@
+transformers
+torch
+sentencepiece
+numpy
+protobuf
+huggingface_hub
