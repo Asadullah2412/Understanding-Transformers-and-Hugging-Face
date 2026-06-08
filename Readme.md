@@ -116,30 +116,42 @@ Output: Multilingual translation (e.g., French, Arabic)
 Observation: Strong cross-lingual accuracy with language tokens
 
 ⚠️ Limitations
+
 Requires significant RAM (~16GB recommended)
+
 Model size is large (~2–3GB cached)
+
 Performance varies across languages
+
 Summarization not as strong as specialized models in some cases
 
 🔮 Future Improvements
+
 Fine-tuning on domain-specific datasets
+
 Deploying as FastAPI / Streamlit web app
+
 Adding real-time translation API
+
 Integrating speech-to-text + translation pipeline
 
 📌 References
 Attention Is All You Need: <https://arxiv.org/abs/1706.03762>
+
 Hugging Face Transformers: <https://huggingface.co/docs/transformers>
+
 BART Model: facebook/bart-large-cnn
+
 mBART Model: facebook/mbart-large-50-many-to-many-mmt
 
 🧑‍💻 Author
 
 Mohammad Asadullah
 
-NLP & AI Enthusiast
+ AI Enthusiast
 Working on Transformer-based systems
 Exploring Generative AI & LLMs
+
 ⭐ If you like this project
 
 Give it a ⭐ on GitHub — it helps a lot!
